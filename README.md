@@ -33,4 +33,8 @@ Or use developer-level tools with entitlements and Xcode debugging
 Or rely on firmware parsing and offline analysis via IPSW files
 
 # Download
-You can download the Save MobileGestalt .shortcut file here()
+You can download the Save MobileGestalt .shortcut file [here](https://raw.githubusercontent.com/xsxs-dev/Save-MobileGestalt/refs/heads/main/Save%20MobileGestalt%20.zip)
+
+# Usage
+Press on the file and download it. After downoad go to files app and click on the file. You will be redirected to the Shortcuts app and have to confirm the shortcut.
+After that click on the shortcut and press allow and then select where the MobileGestalt file will save 
